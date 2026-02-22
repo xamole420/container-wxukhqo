@@ -1,3 +1,15 @@
+# v0.0.2 (Sun Feb 22 2026)
+
+#### ⚠️ Pushed to `main`
+
+- Update index.html ([@xamole420](https://github.com/xamole420))
+
+#### Authors: 1
+
+- xamole ([@xamole420](https://github.com/xamole420))
+
+---
+
 # v0.0.1 (Sun Feb 22 2026)
 
 :tada: This release contains work from a new contributor! :tada:
